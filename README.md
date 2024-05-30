@@ -1,7 +1,7 @@
 # Fine-Tuning Regression Model
 <small style="display: block; margin-top: -10px">Obligatory Assignment for [Introduction to A.I.](https://student.oslomet.no/studier/-/studieinfo/emne/DAVE3625/2023/H%C3%98ST) @ OsloMet</small>
 ![Project Logo](img/regression_0001.png)
-[To notebook]()
+[To notebook](https://nbviewer.org/github/pholdahl/Fine-tuning-regression-model/blob/main/fine-tuning-regression-model.ipynb)
 
 ## Tesla Stock Price Predictor With Regression
 
